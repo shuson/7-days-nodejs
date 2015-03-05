@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
-<title>七天学会NodeJS</title>
+<title>Learn Nodejs in 7 days</title>
 <style>
 body {
 color: #333;
@@ -247,7 +247,7 @@ display: none;
 </header>
 <nav>
 <div class="menubar">
-<a class="button">&#9776;&nbsp;索引</a>
+<a class="button">&#9776;&nbsp;Index</a>
 </div>
 <x-index />
 </nav>
