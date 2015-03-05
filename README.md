@@ -1,8 +1,7 @@
-七天学会NodeJS
+Learn-Nodejs-7days
 =============
 
-这是一本NodeJS新手入门教程，涵盖了使用NodeJS开发各种程序所必要的知识，请点击以下链接阅读。
+This repo is folked from nqdeng's [7-days-nodejs](http://nqdeng.github.io/7-days-nodejs/), which is the original version in Chinese.
 
->	[http://nqdeng.github.io/7-days-nodejs/](http://nqdeng.github.io/7-days-nodejs/)
+I try to translate his to an English version for guys who want to have a quick start of Nodejs.
 
-另外，如果愿意协助完善这篇教程的话，您可能需要用到[天书](https://github.com/nqdeng/tianshu)这个小工具。
