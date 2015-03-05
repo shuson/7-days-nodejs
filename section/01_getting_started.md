@@ -1,9 +1,10 @@
-NodeJS基础
+Node.js Foundation
 ----------------------
 
-### 什么是NodeJS
+### What is Node.js?
 
-JS是脚本语言，脚本语言都需要一个解析器才能运行。对于写在HTML页面里的JS，浏览器充当了解析器的角色。而对于需要独立运行的JS，NodeJS就是一个解析器。
+JavaScript(js) is a script and interpreted language, which needs interpretor to execute. As per the js code embeded in HTML, the browser(user agent) plays the role of interpretor.
+For those javascript codes, who want to run stand alone, the Node.js is the interpretor provided.
 
 每一种解析器都是一个运行环境，不但允许JS定义各种数据结构，进行各种计算，还允许JS使用运行环境提供的内置对象和方法做一些事情。例如运行在浏览器中的JS的用途是操作DOM，浏览器就提供了`document`之类的内置对象。而运行在NodeJS中的JS的用途是操作磁盘文件或搭建HTTP服务器，NodeJS就相应提供了`fs`、`http`等内置对象。
 

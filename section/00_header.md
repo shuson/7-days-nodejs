@@ -1,2 +1,2 @@
-七天学会NodeJS
+Learn Node.js in 7 days
 ======================
